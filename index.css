@@ -207,7 +207,11 @@ font-size: 50px;
 
 @media only screen and (max-width:500px) {
 
+nav .logo{
 
+margin-top: 12px;
+
+}
   .content-ai p{
     
     padding: 20px;
@@ -382,6 +386,12 @@ font-size: 20px;
   .columns {
     width: 100%;
   }
+
+  .working{
+    background-color: white !important;
+    
+  }
+  
 }
 
 
