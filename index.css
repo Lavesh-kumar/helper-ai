@@ -52,6 +52,15 @@ box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
 
 }
 
+.feedbacktitle{
+
+  text-align: center;
+  font-size: 40px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+
 
 
 nav{
@@ -172,7 +181,7 @@ input[type="checkbox"]{
 
 
   max-width: 1200px;
-  height: 450px;
+  height: 550px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -196,7 +205,23 @@ font-size: 50px;
 }
 
 
+@media only screen and (max-width:500px) {
 
+
+  .content-ai p{
+    
+    padding: 20px;
+      font-size: 20px;
+      
+    }
+    .content-ai h1{
+  
+    
+    font-size: 30px;
+    }
+    
+  
+}
 
 #features {
 max-width:1050px;
@@ -224,6 +249,18 @@ margin: auto;
 	text-align: center;
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
 }
+
+
+
+
+.featuretitle{
+
+  text-align: center;
+  font-size: 40px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  }
 .footers{
 
 height: 50px;
@@ -254,24 +291,32 @@ padding: 20px;
 
   margin-top: 40px;
     margin-bottom: 120px;
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
-
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
 
 
 
   }
 .pricebanner{
-  font-family:Georgia, 'Times New Roman', Times, serif;
-
+  font-size: 24px;
+			color: #666;
+			line-height: 1.5;
+			margin-bottom: 30px;
 
 width: 450px;
 
 
-padding-top: 100px;
-
 font-size: 20px;
 
 
+
+
+}
+
+.pricebanner h1{
+  font-size: 48px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 30px;
 
 
 }
@@ -288,6 +333,8 @@ font-size: 20px;
 .columns {
 
   width: 350px;
+
+
 
 }
 
@@ -336,7 +383,6 @@ font-size: 20px;
     width: 100%;
   }
 }
-
 
 
 
@@ -405,6 +451,16 @@ border-radius: 10px;
 
 
 }
+
+
+.workingtitle{
+
+  text-align: center;
+  font-size: 40px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  }
 
 .vid{
 
