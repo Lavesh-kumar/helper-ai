@@ -476,3 +476,26 @@ border-radius: 10px;
 
   width: 100%;
 }
+.blog{
+
+  max-width: 1000px;
+  
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  margin: auto;
+  margin-top: 100px;
+  padding: 50px;
+  
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+
+
+
+}
+.blog{
+
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+font-size: 20px;
+}
