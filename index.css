@@ -301,7 +301,7 @@ padding: 20px;
 
   }
 .pricebanner{
-  font-size: 24px;
+  
 			color: #666;
 			line-height: 1.5;
 			margin-bottom: 30px;
@@ -309,7 +309,7 @@ padding: 20px;
 width: 450px;
 
 
-font-size: 20px;
+font-size: 16px;
 
 
 
@@ -451,7 +451,7 @@ border-radius: 50%;
 	flex-wrap: wrap;
 margin: auto;
 padding: 20px;
-background-color: #111;
+
 border-radius: 10px;
 
   margin-top: 40px;
@@ -473,7 +473,8 @@ border-radius: 10px;
   }
 
 .vid{
-
+border: 10px solid black;
+border-radius: 5px;
   width: 100%;
 }
 .blog{
@@ -495,7 +496,10 @@ border-radius: 10px;
 .blog{
 
 font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 13px;
+}
+.blog h2{
 
+  font-size: 20px;
 
-font-size: 20px;
 }
