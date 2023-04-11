@@ -503,3 +503,23 @@ font-size: 13px;
   font-size: 20px;
 
 }
+
+.works{
+
+
+
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+background-color: white;
+height: 400px;
+  max-width: 900px;
+  margin: auto;
+  margin-top: 50px;
+ 
+font-size: 20px;
+padding: 10px;
+display: flex;
+flex-direction: column;
+
+}
+
+
