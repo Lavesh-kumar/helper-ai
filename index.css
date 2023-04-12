@@ -510,7 +510,7 @@ font-size: 13px;
 
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
 background-color: white;
-height: 400px;
+min-height: 400px;
   max-width: 900px;
   margin: auto;
   margin-top: 50px;
